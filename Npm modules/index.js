@@ -21,4 +21,3 @@ setTimeout(() => {
     myEmitter.emit('log', 'Log event emitted!');
 
 }, 2000)
-
