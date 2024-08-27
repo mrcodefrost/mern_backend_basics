@@ -1,0 +1,3 @@
+20240827	16:03:02	93b66506-eb5c-4edf-b282-144700d962fa	GET	undefined	/
+20240827	16:03:02	a012ca62-a1fe-4f9c-8cb5-2499e33d84ab	GET	undefined	/css/style.css
+20240827	16:07:01	8b535ab7-3e2f-4b3d-93b2-e838a796d748	GET	https://www.google.com	/
