@@ -1,7 +1,7 @@
 {
-  "name": "Routing",
+  "name": "MVC REST API",
   "version": "1.0.0",
-  "description": "Routing tutorial",
+  "description": "MVC REST API tutorial",
   "main": "server.js",
   "scripts": {
     "start": "node server",
