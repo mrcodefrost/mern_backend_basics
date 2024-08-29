@@ -41,7 +41,6 @@ app.use('/', require('./routes/root'));
 // this will redirect all requests for the subdir to the subdir route
 app.use('/subdir', require('./routes/subdir'));
 
-
 app.use('/employees', require('./routes/api/employees'));
 
 

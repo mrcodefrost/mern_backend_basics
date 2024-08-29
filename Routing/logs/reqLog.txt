@@ -32,3 +32,5 @@
 20240828	18:45:06	0d7f4c4e-b18e-4bf6-85ef-e4425ff98345	GET	undefined	/
 20240828	18:46:01	4d0155a6-246d-4b09-ac5c-ca768cff27c3	GET	undefined	/employees
 20240828	18:46:35	ae85008f-2e64-4e00-8eb7-7ff92aa69672	GET	undefined	/employees
+20240829	12:10:06	30637c28-1010-436b-9079-766600d6ce3f	GET	undefined	/employees
+20240829	12:11:27	6c0eec72-deb0-4300-9bd6-10f01e5bd295	POST	undefined	/employees
