@@ -1,0 +1,2 @@
+20240830	16:23:49	5eba34c1-5a58-4750-be2f-bfeb73a39972	TypeError: Cannot read properties of undefined (reading 'username')
+20240831	14:47:06	5630485c-6ff9-41c6-965b-76bb485b7aeb	ReferenceError: user is not defined
